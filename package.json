@@ -1,0 +1,26 @@
+{
+  "name": "calculadora-basica-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ale-AleRomPer2627/calculadora-basica-tdd.git"
+  },
+  "keywords": [],
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Ale-AleRomPer2627/calculadora-basica-tdd/issues"
+  },
+  "homepage": "https://github.com/Ale-AleRomPer2627/calculadora-basica-tdd#readme",
+  "devDependencies": {
+    "vitest": "^5.0.5"
+  },
+  "dependencies": {
+    "chalk": "^6.0.1"
+  }
+}
