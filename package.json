@@ -1,8 +1,9 @@
 {
   "name": "calculadora-basica-tdd",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Calculadora mínimaa con TDD (add, sub, nul, div, sqrt)",
+  "main": "calc.js",
+  "type": "module",
   "scripts": {
     "test": "vitest run",
     "test:watch": "vitest"
@@ -12,7 +13,8 @@
     "url": "git+https://github.com/Ale-AleRomPer2627/calculadora-basica-tdd.git"
   },
   "keywords": [],
-  "type": "module",
+  "author": "Alejandra Begoña Romero Pérez", 
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Ale-AleRomPer2627/calculadora-basica-tdd/issues"
   },
